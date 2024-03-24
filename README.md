@@ -1,7 +1,7 @@
 # Effulgencetech-aws-cicd-project
 ![CI/CD Pipeline architecture](https://github.com/Michaelgwei86/effulgencetech-aws-cicd/blob/main/effulgencetech-aws-cicd-demo.jpg)
 
-### Infrastructure details
+#### Infrastructure details
 1. Consists of a VPC -----> 10.0.0.0/16
 2. Consists of Two public subnets
     - Public subnet 1 ------> 10.0.0.0/24
